@@ -1,6 +1,6 @@
 # 0805: informatique théorique
 
-Ce dépot contient l'ensemble des documents mis à votre disposition dans le cadre du cours d'informatique théorique du M1 informatique.
+Ce dépot contient l'ensemble des documents mis à votre disposition dans le cadre du cours d'informatique théorique du M1 informatique de l'université de Reims.
 
 
 
